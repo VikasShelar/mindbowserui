@@ -1,0 +1,12 @@
+.sidenavbar{
+
+  min-height: 1200px;
+  background-image: linear-gradient(black,skyblue);
+  padding: 30px;
+
+  }
+  .main{
+
+  min-height: 1200px;
+  background-image: linear-gradient(white,skyblue)
+  }
